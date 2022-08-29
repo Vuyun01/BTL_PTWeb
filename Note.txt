@@ -1,0 +1,39 @@
+Họ và Tên: Trần Bá Vũ
+MSSV: 1921050698
+Lớp: DCCTPM64A
+
+
+NOTE: (BTL được viết theo PHP OOP và có tham khảo từ trang http://www.trainingwithliveproject.com/)
+NOTE: (Tài khoản và mật khẩu để vào trang Admin)
+		tk admin	password
+	1	admin		admin123
+	2	vutran		admin123
+
+BTL gồm 2 phần: Admin + web shop
+
+1. Trang Admin gồm các tính năng sau
+	1.1  Thêm, sửa, xóa slider (Carousel) và hiển thị danh sách slider (Carousel)
+	1.2  Thêm, sửa, xóa Danh mục và hiển thị danh sách Danh mục
+	1.3  Thêm, sửa, xóa Thương hiệu và hiển thị danh sách Thương hiệu
+	1.4  Thêm, sửa, xóa Sản phẩm và hiển thị danh sách Sản phẩm
+	1.5  Đăng nhập, đăng xuất tài khoản admin (Có sử dụng phiên - Session)
+	1.6  Đổi mật khẩu
+	1.7  Hòm thư (Chứa thư liên hệ của người dùng và có thể xóa thư)
+	1.8  Quản lý người dùng (Chứa thông tin người dùng đã đăng kí tài khoản trên web shop)
+	1.9  Quản lý đơn hàng (Chứa các đơn hàng người dùng đã đặt từ web shop, có thể thao tác lên đơn hàng)
+
+2. Trang bán hàng - Web shop gồm các tính năng sau:
+	2.1 Hiển thị các sản phẩm, danh mục, thương hiệu, tất cả thông tin của sản phẩm khi thêm từ trang Admin
+	2.2 Hiển thị sản phẩm theo danh mục, thương hiệu
+	2.3 Đăng kí, Đăng nhập, Đăng xuất tài khoản
+	2.4 Thêm sản phẩm vào giỏ hàng 
+	2.5 Có thể cập nhật số lượng sản phẩm (Nếu trùng sản phẩm sẽ chỉ tăng thêm số lượng)
+	2.6 Có thể thực hiện thanh toán sản phẩm (Trang này sẽ hiển thị thông tin sản phẩm + Tổng giá, ngoài ra có thể chỉnh sửa thông tin khách hàng)
+	2.7 Trang thông tin khách hàng sau khi đăng nhập (Có thể chỉnh sửa thông tin tài khoản)
+	2.8 Hiển thị hóa đơn thanh toán sau khi thanh toán (Có thể xem chi tiết hóa đơn)
+	2.9 Gửi thông tin liên hệ - contact us (Thông tin này sẽ đc gửi đến trang Admin)
+
+
+
+									THANK YOU
+	
